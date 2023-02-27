@@ -12,7 +12,7 @@ Edit thing you should edit that comment said to
 **Get your Own Application from https://discordapp.com/developers/applications/**
 
 **Example :**
-Citizen.CreateThread(function()
+```Citizen.CreateThread(function()
     while true do
         local player = GetPlayerPed(-1)
         
@@ -35,4 +35,4 @@ Citizen.CreateThread(function()
     end
 end)
 
---Barbie-Devs
+--Barbie-Devs```
