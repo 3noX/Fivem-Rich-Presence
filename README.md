@@ -29,7 +29,7 @@ Edit thing you should edit that comment said to
         SetDiscordRichPresenceAssetSmallText("Health: "..(GetEntityHealth(player)-100)) -- your small logo hover text (.png, .jpg, or .jpeg — 1024x1024 recommended, 512x512 minimum)
 
         SetDiscordRichPresenceAction(0, "Button 1", "https://discord.gg/kJu8ZPqTNF") -- Button 1 name and link
-	    SetDiscordRichPresenceAction(1, "Button 2", "https://denuwanhackzzz.me") --  Button 2 name and link
+	SetDiscordRichPresenceAction(1, "Button 2", "https://denuwanhackzzz.me") --  Button 2 name and link
 
 
     end
