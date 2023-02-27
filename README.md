@@ -3,7 +3,7 @@ A simple fivem rich present with imgs and buttons. 😋
 
 ## Instructions Guide 🥰
 ### Step 1 🥀
-Download () and copy [Discord](discord) Folder Into resources folder in your FiveM Server and Edit the `client.lua` file
+Download () and copy [Discord](discord) Folder Into resources folder in your FiveM Server and Edit the `client.lua` file and don't edit `fxmanifest.lua` file.
 
 
 ### Step 2 🥀
